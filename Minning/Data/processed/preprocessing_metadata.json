@@ -1,0 +1,51 @@
+{
+  "target": "life_expectancy",
+  "id_columns": [
+    "country_name",
+    "country_code"
+  ],
+  "feature_columns": [
+    "year",
+    "population",
+    "pop_growth",
+    "gdp_growth",
+    "sanitation",
+    "electricity",
+    "water_access",
+    "co2_emissions",
+    "labor_force",
+    "is_covid",
+    "log1p_gdp_per_capita",
+    "electricity_water_interaction",
+    "basic_services_gap"
+  ],
+  "scaled_columns": [
+    "population",
+    "pop_growth",
+    "gdp_growth",
+    "sanitation",
+    "electricity",
+    "water_access",
+    "co2_emissions",
+    "labor_force",
+    "log1p_gdp_per_capita",
+    "electricity_water_interaction",
+    "basic_services_gap"
+  ],
+  "dropped_columns": [
+    "poverty_ratio",
+    "slum_population"
+  ],
+  "engineered_features": [
+    "is_covid",
+    "log1p_gdp_per_capita",
+    "electricity_water_interaction",
+    "basic_services_gap"
+  ],
+  "random_state": 42,
+  "split_ratio": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  }
+}
