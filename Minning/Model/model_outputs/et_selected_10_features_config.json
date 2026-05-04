@@ -1,0 +1,45 @@
+{
+  "model": "MyExtraTreesRegressor",
+  "selection_rule": "Chọn theo validation MAE, không dùng test để chọn tham số",
+  "target_col": "life_expectancy",
+  "selected_features": [
+    "year",
+    "is_covid",
+    "log1p_gdp_per_capita",
+    "sanitation",
+    "electricity_water_interaction",
+    "life_expectancy_lag1",
+    "life_expectancy_trend_3y",
+    "life_expectancy_volatility_3y",
+    "log1p_gdp_per_capita_diff1",
+    "sanitation_diff1"
+  ],
+  "covid_years": [
+    2020,
+    2021,
+    2022
+  ],
+  "use_val_history_for_test": false,
+  "country_col": "country_code",
+  "config": {
+    "n_estimators": 500,
+    "max_depth": 12,
+    "min_samples_split": 4,
+    "min_samples_leaf": 1,
+    "max_features": 0.8,
+    "bootstrap": false,
+    "max_samples": 1.0,
+    "n_random_thresholds": 2,
+    "min_impurity_decrease": 0.0,
+    "random_state": 42,
+    "verbose": 1
+  },
+  "train_time_seconds": 243.82349371910095,
+  "output_files": {
+    "metrics": "model_outputs\\et_selected_10_features_results.csv",
+    "test_predictions": "model_outputs\\et_selected_10_features_test_predictions.csv",
+    "feature_importance": "model_outputs\\et_selected_10_features_importance.csv",
+    "tuning_runs": "model_outputs\\et_selected_10_features_tuning_runs.csv",
+    "tuning_results": "model_outputs\\et_selected_10_features_tuning_results.csv"
+  }
+}

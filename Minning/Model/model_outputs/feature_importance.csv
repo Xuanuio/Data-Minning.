@@ -1,0 +1,448 @@
+feature,importance
+num__electricity_water_interaction,0.3374806151435073
+num__electricity,0.15739122202352782
+num__basic_services_gap,0.118002063084654
+num__water_access,0.08082258342692872
+num__log1p_gdp_per_capita,0.08001180591815192
+num__sanitation,0.023925569177160846
+num__year,0.013736913626368337
+num__pop_growth,0.009857790811775338
+cat__country_name_Central African Republic,0.007964108461109318
+num__co2_emissions,0.006539315876780776
+cat__country_code_CAF,0.006497111439952121
+cat__country_code_NRU,0.005997314401291952
+cat__country_name_Nauru,0.005969893253657969
+num__labor_force,0.005372269604238556
+num__population,0.004912836231237733
+cat__country_name_Eswatini,0.003934947214856448
+cat__country_code_SWZ,0.0037645469076489015
+cat__country_code_NGA,0.003256883974398851
+cat__country_name_Nigeria,0.0031001510316575717
+cat__country_code_ZAF,0.0030707715848052636
+cat__country_code_PLW,0.003012852302835373
+cat__country_name_South Africa,0.002849440961448652
+cat__country_name_Greenland,0.0026632773630289605
+cat__country_code_GRL,0.002483209561385261
+cat__country_name_Palau,0.0023630505576239
+cat__country_code_SSD,0.002191514445458314
+cat__country_name_South Sudan,0.002174768387800416
+num__gdp_growth,0.0021270011416282208
+cat__country_name_Tuvalu,0.0019207576719009643
+cat__country_code_LSO,0.0018835244360614724
+cat__country_code_TUV,0.0018066022282790838
+cat__country_name_Lesotho,0.0017579324563610603
+cat__country_code_ZWE,0.0017064997568422787
+cat__country_code_PRK,0.0016889970295349602
+cat__country_code_SOM,0.0015612855638049425
+"cat__country_name_Somalia, Fed. Rep.",0.0015173769447822418
+cat__country_name_Zimbabwe,0.0014963464527241795
+"cat__country_name_Korea, Dem. People's Rep.",0.0014466276919133068
+cat__country_code_SLB,0.0013292528409998704
+cat__country_name_Vanuatu,0.0013225781434007208
+cat__country_name_Gibraltar,0.0012666192755334262
+cat__country_code_VUT,0.001252691156322842
+cat__country_code_GIB,0.0011918752815541342
+cat__country_name_Solomon Islands,0.0011890221485159073
+cat__country_code_LBR,0.001116754266100485
+num__is_covid,0.001029564039306215
+cat__country_name_Chad,0.0009989393645619593
+cat__country_name_Cote d'Ivoire,0.0009166380289166005
+cat__country_name_Liberia,0.0009055536250851701
+cat__country_code_CIV,0.0008860125260278478
+cat__country_code_TCD,0.0008229350335418947
+cat__country_name_Cabo Verde,0.0007775917793146867
+cat__country_name_Turkmenistan,0.0007724539680681217
+cat__country_code_BRN,0.0007329991231752914
+cat__country_name_Brunei Darussalam,0.0007059960900682631
+cat__country_code_CPV,0.0007026235794111958
+cat__country_code_CUB,0.0006953174947095485
+cat__country_name_Sierra Leone,0.0006795009607807424
+cat__country_code_TKM,0.0006764100340741075
+cat__country_code_SLE,0.0006690910649878952
+cat__country_code_RUS,0.0006581500642201611
+cat__country_code_PNG,0.0006549961006186383
+cat__country_name_Cuba,0.0006542657373244471
+cat__country_code_KHM,0.0006368867521063999
+cat__country_name_Papua New Guinea,0.0006358800980688539
+cat__country_code_MHL,0.0006328587444684971
+cat__country_name_Sri Lanka,0.0006190782606598355
+cat__country_code_LKA,0.0006171399456805216
+cat__country_code_FJI,0.000614519538056922
+cat__country_name_Russian Federation,0.0006000060374987479
+cat__country_name_Albania,0.0005976041009621542
+cat__country_code_ALB,0.0005973908653817534
+cat__country_code_PAN,0.0005968172299494202
+cat__country_name_Fiji,0.0005929961705366747
+cat__country_name_Equatorial Guinea,0.0005925282003483315
+cat__country_name_Cambodia,0.0005832798285000144
+cat__country_name_Panama,0.0005813814167701281
+cat__country_code_GNQ,0.0005514302587659415
+cat__country_code_BOL,0.0005460255621373082
+cat__country_code_RWA,0.0005425220800252834
+cat__country_code_CRI,0.0005321966709130045
+cat__country_code_BHS,0.0005250068523940023
+cat__country_name_Bolivia,0.000515895758588472
+cat__country_name_Marshall Islands,0.0005100864170866864
+cat__country_code_MRT,0.000507580138198319
+cat__country_code_PAK,0.0005037036145247448
+cat__country_name_Mauritania,0.0004979816655370734
+"cat__country_name_Bahamas, The",0.00049699387706445
+cat__country_name_Costa Rica,0.0004966402707139156
+cat__country_code_GUY,0.0004926796846098906
+cat__country_name_Guyana,0.0004898663950259856
+cat__country_name_Iraq,0.00048007921925533737
+cat__country_name_Cameroon,0.000478146046775138
+cat__country_name_Rwanda,0.0004691823662299026
+cat__country_code_IRQ,0.00046237933703862684
+cat__country_name_Pakistan,0.00045158969744476255
+cat__country_code_MAF,0.0004495726750191413
+cat__country_name_Madagascar,0.00044053315189210545
+cat__country_code_CMR,0.0004365236486502396
+cat__country_code_MDG,0.0004318943073478474
+cat__country_name_Namibia,0.00042780196879215176
+cat__country_code_PYF,0.00041357950632834505
+cat__country_code_NAM,0.0004102296298213371
+cat__country_name_St. Kitts and Nevis,0.0003962870553342639
+cat__country_code_EGY,0.00039470277500952805
+cat__country_name_Chile,0.000393382142714833
+cat__country_code_LBN,0.0003883988878766585
+cat__country_code_CHL,0.00038037993998376007
+cat__country_code_KNA,0.0003784857623746613
+cat__country_name_St. Martin (French part),0.00037354930634695864
+cat__country_code_GAB,0.0003728164089425002
+"cat__country_name_Egypt, Arab Rep.",0.00035933136936848497
+"cat__country_name_Yemen, Rep.",0.000359258554198528
+cat__country_code_PER,0.00035378893094928436
+cat__country_code_AGO,0.00035056823257260884
+cat__country_name_French Polynesia,0.00034252852190000117
+cat__country_name_Peru,0.0003423575522920148
+cat__country_code_SUR,0.00034139358652401897
+cat__country_code_JPN,0.0003319643076500496
+cat__country_code_LBY,0.0003303256288556095
+cat__country_name_Gabon,0.0003292801191616906
+cat__country_code_YEM,0.00032493376766832687
+cat__country_code_KAZ,0.0003220203570072332
+cat__country_name_Lebanon,0.0003215486450732973
+cat__country_name_Angola,0.00031958678543777034
+cat__country_name_Kazakhstan,0.00031908459338652684
+cat__country_name_Libya,0.0003153143877184
+cat__country_name_Suriname,0.0002993907820530239
+cat__country_name_Mali,0.0002930898709130663
+cat__country_code_ZMB,0.0002847019453578135
+cat__country_code_MLI,0.0002765766195886488
+cat__country_name_Guinea-Bissau,0.0002755998407570093
+cat__country_code_HKG,0.0002748537753724029
+cat__country_name_Trinidad and Tobago,0.00027087568519388146
+cat__country_code_GNB,0.00026806566554705855
+cat__country_name_Japan,0.00026741493123831253
+"cat__country_name_Macao SAR, China",0.00026605121450441315
+cat__country_name_Monaco,0.00025681651652182037
+cat__country_code_MCO,0.00025656402885388915
+"cat__country_name_Hong Kong SAR, China",0.00025564488219965704
+cat__country_code_TTO,0.00025481703374841786
+cat__country_name_Bosnia and Herzegovina,0.00024948036298594415
+cat__country_name_Guinea,0.0002489726099454775
+cat__country_name_Ghana,0.0002471379478598498
+cat__country_code_MAC,0.00024635065472036484
+cat__country_name_Afghanistan,0.0002442699265334657
+cat__country_name_Zambia,0.0002437066496118604
+cat__country_name_Eritrea,0.00023948447585906045
+cat__country_code_GHA,0.00023519668693043716
+cat__country_code_GIN,0.00023316483130916946
+cat__country_name_Botswana,0.00022807048844880427
+cat__country_code_BIH,0.00022694458403642757
+cat__country_code_AFG,0.0002214813091867673
+cat__country_code_BWA,0.00022125277261000239
+cat__country_name_Grenada,0.00021905725800637474
+cat__country_code_MDV,0.00021607160296971458
+cat__country_code_CHN,0.00021385746192650388
+cat__country_code_GRD,0.0002121628000610024
+cat__country_name_Maldives,0.00019975565650090073
+cat__country_code_LTU,0.00019535787169738534
+cat__country_name_Ireland,0.00018995657046368613
+cat__country_name_United States,0.0001898228218780211
+cat__country_code_GUM,0.00018908499543519446
+cat__country_code_OMN,0.00018575809249259
+cat__country_code_ERI,0.00018495543163169072
+cat__country_name_Oman,0.0001835548875026681
+cat__country_code_AND,0.00018058443273407244
+cat__country_name_Lithuania,0.0001782451353398204
+cat__country_code_USA,0.00017792151053603195
+cat__country_name_Romania,0.0001770437591641644
+cat__country_name_Virgin Islands (U.S.),0.00017698971056026566
+cat__country_code_PHL,0.00017629438785105928
+cat__country_name_China,0.0001745555565128518
+cat__country_name_Guam,0.0001740194812056432
+cat__country_code_IMN,0.00017387268267875938
+cat__country_name_Viet Nam,0.00017006608299580862
+cat__country_name_Greece,0.0001691165721143189
+cat__country_code_DJI,0.00016791346894665037
+cat__country_code_ECU,0.00016734694007007424
+cat__country_name_Andorra,0.00016544887823984866
+cat__country_name_Ecuador,0.0001648073977627241
+cat__country_code_CUW,0.00016237132974260913
+cat__country_name_San Marino,0.00016221889510643754
+cat__country_code_VCT,0.00016183748394442323
+cat__country_name_Philippines,0.00016019775168826724
+cat__country_code_MAR,0.00015917703810604136
+cat__country_code_VNM,0.00015891113112564064
+cat__country_name_Dominica,0.00015815452315512185
+cat__country_code_KIR,0.00015739892286811583
+cat__country_name_St. Vincent and the Grenadines,0.00015599312212330078
+cat__country_name_Comoros,0.00015324292482276353
+cat__country_name_Kiribati,0.00015316159188903333
+cat__country_name_Djibouti,0.00015220231831149515
+cat__country_name_Morocco,0.00015174256625315606
+cat__country_name_Curacao,0.0001464964902762016
+cat__country_code_TLS,0.00014443337014316478
+cat__country_code_VIR,0.00014403487037353117
+cat__country_code_ROU,0.000143433442791708
+cat__country_code_DMA,0.00014315664762737853
+cat__country_name_Nicaragua,0.00013952742917224664
+cat__country_name_Cayman Islands,0.0001385317980655002
+cat__country_name_Isle of Man,0.0001377083895679409
+cat__country_code_SMR,0.00013703869098805957
+cat__country_code_NIC,0.00013393121583549938
+cat__country_name_Tanzania,0.0001336779165662495
+cat__country_name_Latvia,0.00013250092869568385
+cat__country_name_Togo,0.00013245400983762125
+cat__country_name_Timor-Leste,0.00012984170598761454
+cat__country_code_COM,0.00012963789695277946
+cat__country_code_GRC,0.00012827048383139906
+cat__country_code_CYM,0.00012607413722441125
+cat__country_code_TZA,0.00012391120732846246
+cat__country_code_IRL,0.00012378917458763592
+cat__country_name_Spain,0.00012255301446500704
+cat__country_name_Indonesia,0.00012058204143894562
+cat__country_code_CHI,0.00011775675049069421
+cat__country_code_IDN,0.00011563145708001551
+cat__country_code_XKX,0.00011470415195522331
+cat__country_name_Samoa,0.00011412992139821816
+cat__country_code_PRI,0.00011409465481013249
+cat__country_code_WSM,0.00011279032782563915
+cat__country_code_LVA,0.00011275676943278161
+cat__country_code_FSM,0.00011191441369098899
+cat__country_code_HND,0.00011141190736449598
+cat__country_name_Ukraine,0.00011031577649118246
+cat__country_name_Portugal,0.00010997623361288932
+"cat__country_name_Micronesia, Fed. Sts.",0.00010989221985553366
+cat__country_code_MDA,0.00010967278556264011
+cat__country_code_EST,0.00010945759492960179
+cat__country_name_Kosovo,0.00010910641078263537
+cat__country_code_UGA,0.00010891792869888016
+cat__country_name_Uganda,0.00010882254974479829
+cat__country_name_Kuwait,0.00010837917672900693
+cat__country_code_UKR,0.00010836837825964095
+cat__country_code_CAN,0.00010800436650361423
+cat__country_name_Channel Islands,0.00010769737199150788
+cat__country_name_Honduras,0.0001076953184954491
+cat__country_name_Mauritius,0.00010739675025949949
+cat__country_code_KWT,0.0001070353179728663
+cat__country_code_HTI,0.00010667692978258168
+cat__country_name_Mongolia,0.0001054989394893777
+cat__country_code_PRT,0.00010535617514772263
+cat__country_code_TGO,0.00010489179268190817
+cat__country_name_Puerto Rico (US),0.00010363498993287872
+cat__country_code_NCL,0.00010042465463784037
+cat__country_code_MUS,0.00010003173042287765
+cat__country_name_Haiti,9.950477701205759e-05
+cat__country_name_Moldova,9.84244248388748e-05
+cat__country_code_MNG,9.682723770540896e-05
+cat__country_name_Malawi,9.532641760073968e-05
+cat__country_name_Paraguay,9.510009172697745e-05
+cat__country_name_Estonia,9.417323318340875e-05
+cat__country_name_Bangladesh,9.413399465358964e-05
+cat__country_code_HUN,9.380942020286142e-05
+cat__country_name_Aruba,9.269037440322874e-05
+cat__country_code_ETH,9.195021766646523e-05
+cat__country_name_Hungary,9.123015280037243e-05
+cat__country_code_ABW,8.968404284277862e-05
+cat__country_name_St. Lucia,8.964342505352656e-05
+cat__country_code_ESP,8.953748337321834e-05
+cat__country_name_Sint Maarten (Dutch part),8.910663522633014e-05
+cat__country_code_VGB,8.901814685397301e-05
+cat__country_name_New Caledonia,8.635531949779534e-05
+cat__country_code_CZE,8.57593868533609e-05
+cat__country_name_British Virgin Islands,8.57043298763429e-05
+cat__country_code_MWI,8.566621534125102e-05
+cat__country_name_Qatar,8.552596368184833e-05
+cat__country_code_SXM,8.524924462266401e-05
+cat__country_code_LCA,8.524766512446002e-05
+cat__country_code_MNP,8.511895511943722e-05
+cat__country_code_SVK,8.473219000137522e-05
+cat__country_code_BGD,8.469876000729404e-05
+cat__country_name_Saudi Arabia,8.45481903223896e-05
+cat__country_code_QAT,8.337552332909827e-05
+cat__country_name_Denmark,8.336595537056209e-05
+cat__country_name_Lao PDR,8.318205231225544e-05
+cat__country_code_LAO,8.305357914805976e-05
+cat__country_name_Slovak Republic,8.172971508276606e-05
+cat__country_code_DNK,8.171839950930561e-05
+cat__country_code_KEN,8.142309427712274e-05
+cat__country_name_Mozambique,8.134791743952846e-05
+cat__country_code_SEN,8.108804646322471e-05
+cat__country_code_ASM,7.966560880742039e-05
+cat__country_name_Benin,7.946786777672159e-05
+cat__country_name_West Bank and Gaza,7.835169753816172e-05
+cat__country_code_PRY,7.780697130230885e-05
+cat__country_code_BTN,7.70532836588452e-05
+cat__country_code_SVN,7.677613326744454e-05
+cat__country_code_PSE,7.611076893496979e-05
+cat__country_code_BEN,7.558898560074065e-05
+cat__country_name_Kenya,7.489035359167911e-05
+cat__country_code_TCA,7.44243794989975e-05
+cat__country_code_NPL,7.437914627124888e-05
+cat__country_name_Nepal,7.387551652954997e-05
+cat__country_name_Bhutan,7.34585817733201e-05
+cat__country_code_BLR,7.260048732804596e-05
+cat__country_name_Senegal,7.23373205022937e-05
+cat__country_name_Czechia,7.14513716327469e-05
+cat__country_name_American Samoa,7.126809692881444e-05
+cat__country_name_Ethiopia,7.093836495735384e-05
+cat__country_code_SAU,7.008341566010674e-05
+cat__country_name_Canada,6.99449683448877e-05
+cat__country_name_Northern Mariana Islands,6.894139288382446e-05
+cat__country_code_URY,6.746377250883492e-05
+cat__country_name_Malta,6.728519184712295e-05
+cat__country_name_Uruguay,6.703942626747858e-05
+cat__country_name_Turks and Caicos Islands,6.646685938149748e-05
+cat__country_name_Montenegro,6.525288745071234e-05
+cat__country_code_BDI,6.507837731500109e-05
+cat__country_name_Slovenia,6.31694150369918e-05
+"cat__country_name_Congo, Rep.",6.144279645649799e-05
+cat__country_code_BMU,6.098662718871655e-05
+cat__country_code_BFA,6.0345212022842824e-05
+cat__country_code_MOZ,6.022156672476197e-05
+cat__country_name_Mexico,6.00754403654564e-05
+cat__country_code_MLT,5.9958146411620245e-05
+cat__country_code_BGR,5.945850708733593e-05
+cat__country_code_MNE,5.906703894034304e-05
+"cat__country_name_Gambia, The",5.879012786356673e-05
+cat__country_name_Tajikistan,5.869827942383748e-05
+cat__country_code_MEX,5.773555747495995e-05
+cat__country_name_Belarus,5.63237013354716e-05
+cat__country_name_Seychelles,5.472500877617832e-05
+cat__country_code_TJK,5.441902841596163e-05
+cat__country_name_Burkina Faso,5.3934632234209676e-05
+cat__country_code_SYC,5.392465842876767e-05
+cat__country_code_VEN,5.381481988722789e-05
+cat__country_name_Bermuda,5.371100976741588e-05
+cat__country_code_IRN,5.2242522842743085e-05
+cat__country_name_Bulgaria,5.1627809829012726e-05
+cat__country_code_AZE,5.131029998367351e-05
+"cat__country_name_Venezuela, RB",5.089312376157375e-05
+cat__country_code_TUN,5.046310964120124e-05
+cat__country_code_GMB,5.0380622265116884e-05
+cat__country_code_COG,4.9485624580988645e-05
+cat__country_name_Azerbaijan,4.857026060053279e-05
+cat__country_code_SDN,4.826322887176579e-05
+cat__country_name_Argentina,4.755775265841902e-05
+cat__country_code_KGZ,4.733755753036296e-05
+cat__country_name_Syrian Arab Republic,4.7228699969944504e-05
+cat__country_name_Myanmar,4.6039542886874463e-05
+cat__country_code_SYR,4.6015239740425156e-05
+cat__country_name_Sudan,4.450582079378997e-05
+cat__country_name_Tunisia,4.428626294388715e-05
+cat__country_name_Sao Tome and Principe,4.419389830312545e-05
+"cat__country_name_Iran, Islamic Rep.",4.3578749508231855e-05
+cat__country_code_THA,4.26774316638699e-05
+cat__country_code_UZB,4.244960534718117e-05
+cat__country_code_MMR,4.2401248449329465e-05
+cat__country_code_ARG,4.198637973803624e-05
+cat__country_code_POL,4.1104433568881235e-05
+cat__country_code_STP,4.080925215102281e-05
+cat__country_name_Dominican Republic,4.020040249211912e-05
+cat__country_code_DOM,4.015664331045634e-05
+cat__country_name_Kyrgyz Republic,3.951847999454854e-05
+cat__country_name_Tonga,3.897976883342136e-05
+cat__country_name_Cyprus,3.8604766950043105e-05
+cat__country_code_KOR,3.826670002094745e-05
+cat__country_name_Thailand,3.801051307310569e-05
+cat__country_name_Turkiye,3.613588401367074e-05
+cat__country_code_GTM,3.550824533309485e-05
+cat__country_name_Croatia,3.534744194704584e-05
+cat__country_code_TON,3.5005515736316413e-05
+cat__country_code_JAM,3.4853892264782005e-05
+cat__country_code_HRV,3.451007043854973e-05
+cat__country_name_Guatemala,3.4491288720280694e-05
+cat__country_name_Antigua and Barbuda,3.446691401833235e-05
+"cat__country_name_Congo, Dem. Rep.",3.4431977729723426e-05
+"cat__country_name_Korea, Rep.",3.415858128937536e-05
+cat__country_name_Burundi,3.361609030758442e-05
+cat__country_name_Jordan,3.327376380783518e-05
+cat__country_code_ATG,3.292765919849917e-05
+cat__country_name_Belize,3.225941064182817e-05
+cat__country_code_JOR,3.120378173080926e-05
+cat__country_name_Serbia,3.096415158944528e-05
+cat__country_code_COL,3.073940587092439e-05
+cat__country_name_El Salvador,3.041947103799638e-05
+cat__country_name_Algeria,3.039116220648117e-05
+cat__country_code_GBR,3.025516617893643e-05
+cat__country_code_TUR,3.0172163454145298e-05
+cat__country_code_NER,2.9982524625633895e-05
+cat__country_code_BHR,2.9926446447662982e-05
+cat__country_name_Poland,2.9487709005223e-05
+cat__country_name_Switzerland,2.9394942032244576e-05
+cat__country_code_DZA,2.8995563657509813e-05
+cat__country_code_CYP,2.89832767674802e-05
+cat__country_code_BLZ,2.8839381872781202e-05
+cat__country_code_COD,2.8763220307050793e-05
+cat__country_name_Bahrain,2.8731190453292473e-05
+cat__country_name_Colombia,2.8475948686755534e-05
+cat__country_name_Jamaica,2.7686571777160814e-05
+cat__country_name_United Kingdom,2.7667479401411622e-05
+cat__country_code_SLV,2.7435815993659985e-05
+cat__country_name_Germany,2.697340864589592e-05
+cat__country_code_CHE,2.6489615255561003e-05
+cat__country_name_Uzbekistan,2.6281705716010455e-05
+cat__country_code_LIE,2.6261682382253318e-05
+cat__country_name_India,2.615783056492879e-05
+cat__country_code_DEU,2.560815689283453e-05
+cat__country_code_IND,2.5322963781647103e-05
+cat__country_code_ITA,2.5050290549195494e-05
+cat__country_name_Italy,2.4635908661388693e-05
+cat__country_name_Barbados,2.395945566220376e-05
+cat__country_name_Niger,2.3152838450813656e-05
+cat__country_code_BRB,2.280536326291515e-05
+cat__country_code_SRB,2.2606935222604505e-05
+cat__country_name_Australia,2.1908403100318486e-05
+cat__country_name_Liechtenstein,2.0933154962726303e-05
+cat__country_name_Georgia,2.044996536273798e-05
+cat__country_name_Israel,2.0440095474760595e-05
+cat__country_name_Malaysia,1.9783666538653166e-05
+cat__country_code_ISR,1.936074218968137e-05
+cat__country_code_AUS,1.919062875825127e-05
+cat__country_code_GEO,1.86146884681085e-05
+cat__country_code_ISL,1.7557408032540466e-05
+cat__country_name_Iceland,1.7071464030902614e-05
+cat__country_code_SWE,1.6476661888513073e-05
+cat__country_code_ARM,1.576495387075177e-05
+cat__country_code_MYS,1.5312190996976652e-05
+cat__country_name_Brazil,1.519129430513782e-05
+cat__country_code_BRA,1.51022815509773e-05
+cat__country_name_Sweden,1.4798391020783853e-05
+cat__country_name_Armenia,1.3764895459148877e-05
+cat__country_name_North Macedonia,1.2648238892723767e-05
+cat__country_name_United Arab Emirates,1.1642554025653845e-05
+cat__country_code_FIN,1.1259439236241691e-05
+cat__country_name_France,1.0928667490662163e-05
+cat__country_code_MKD,1.0839240038423246e-05
+cat__country_code_FRA,1.0763324334167491e-05
+cat__country_code_LUX,1.0658452778202393e-05
+cat__country_code_ARE,1.0592575180637592e-05
+cat__country_name_Netherlands,1.0371972374432319e-05
+cat__country_name_Luxembourg,1.0236211617865155e-05
+cat__country_name_Finland,1.0060829514131565e-05
+cat__country_code_FRO,1.0041261124594448e-05
+cat__country_code_BEL,9.904524277000142e-06
+cat__country_name_Faroe Islands,9.558178850433e-06
+cat__country_name_Belgium,9.528886660501537e-06
+cat__country_code_NLD,9.42859702011694e-06
+cat__country_code_SGP,9.068048411090781e-06
+cat__country_name_Singapore,8.645211705714556e-06
+cat__country_code_AUT,7.494944326908101e-06
+cat__country_code_NZL,6.3062230389231175e-06
+cat__country_name_Austria,5.800668519090713e-06
+cat__country_name_New Zealand,5.275644601725189e-06
+cat__country_code_NOR,4.169897206791537e-06
+cat__country_name_Norway,3.6268995903718796e-06

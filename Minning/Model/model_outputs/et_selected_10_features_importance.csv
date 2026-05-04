@@ -1,0 +1,11 @@
+feature,importance
+electricity_water_interaction,0.4377891529533972
+life_expectancy_lag1,0.40123017912987685
+log1p_gdp_per_capita,0.09287976783150402
+sanitation,0.041220612876402656
+year,0.010844422378075048
+life_expectancy_volatility_3y,0.005310506452738635
+life_expectancy_trend_3y,0.0045882623752784854
+log1p_gdp_per_capita_diff1,0.002339961634249086
+sanitation_diff1,0.0022846650704173186
+is_covid,0.0015124692980607057

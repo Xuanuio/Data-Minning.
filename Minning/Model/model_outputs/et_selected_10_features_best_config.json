@@ -1,0 +1,13 @@
+{
+  "n_estimators": 500,
+  "max_depth": 12,
+  "min_samples_split": 4,
+  "min_samples_leaf": 1,
+  "max_features": 0.8,
+  "bootstrap": false,
+  "max_samples": 1.0,
+  "n_random_thresholds": 2,
+  "min_impurity_decrease": 0.0,
+  "random_state": 42,
+  "verbose": 1
+}
